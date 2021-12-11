@@ -6,11 +6,11 @@ This session aims to promote the development of novel deep learning-based method
 
 ## Topics
 
-- anomaly detection in various data types, e.g. graphs, video or time series
-- anomaly detection models based on neural networks. E.g. CNN based methods, RNN based methods or LSTM based methods
-- anomaly detection foundations or theories related to deep learning. E.g. stochastic sampling, statistics-based models or optimization on models
-- applications of deep-learning guided models. E.g. disease detection in healthcare, fraud detection in finance and crime detection based on social activities
-- researches in related areas. E.g. anomaly classification and adversarial samples detection
+- anomaly detection in various data types, e.g. graphs, video or time series;
+- anomaly detection models based on neural networks. E.g. CNN based methods, RNN based methods or LSTM based methods;
+- anomaly detection foundations or theories related to deep learning. E.g. stochastic sampling, statistics-based models or optimization on models;
+- applications of deep-learning guided models. E.g. disease detection in healthcare, fraud detection in finance and crime detection based on social activities;
+- researches in related areas. E.g. anomaly classification and adversarial samples detection;
 - survey for anomaly detection.
 
 ## Important Dates
