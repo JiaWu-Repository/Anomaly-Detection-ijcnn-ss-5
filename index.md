@@ -1,3 +1,5 @@
+[![image](https://wcci2022.org/wp-content/uploads/2020/07/WCCI2022-padua-logo.png)](https://wcci2022.org/)
+
 ## Aim and Scope
 
 With the rapid development of emerging deep learning technologies and applications, large amounts of data have been generated through different types of objects, such as texts, images, graphs, videos, etc. This scenario has led to a renewed attention in anomaly detection, which is indispensable in many fields like cybersecurity, fintech, healthcare, public security and AI safety. Recently, various studies propose to leverage the power of deep learning for anomaly detection, which has shown some promising results. However, many challenging problems still remain unsolved due to the complex nature of data and models. This special section on Deep Learning on Anomaly Detection will solicit recent advances in anomaly detection that exploit the data structures, semantics, dynamics and heterogeneity to provide more reliable and efficient anomaly detection systems.
