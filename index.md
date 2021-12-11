@@ -22,10 +22,10 @@ This session aims to promote the development of novel deep learning-based method
 [Submission portal](https://wcci2022.org/submission/)
 
 ## Organizers
-Assist Prof Hao Peng, Beihang University, China
-Dr Jia Wu, Macquarie University, Australia
-Prof Philip S. Yu, University of Illinois at Chicago, USA
+Assist Prof Hao Peng, Beihang University, Beijing, China  
+Dr Jia Wu, Macquarie University, Sydney, Australia  
+Prof Philip S. Yu, University of Illinois at Chicago, USA  
 
 ## Support or Contact
-You can find detailed instructions on how to submit your paper [here](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html).
-Contact Person: Jia Wu (jia.wu@mq.edu.au), Research Director, AI-enabled Processes (AIP) Research Centre, Macquarie University, Australia
+You can find detailed instructions on how to submit your paper [here](https://cmt3.research.microsoft.com/docs/help/author/author-submission-form.html).  
+Contact: Jia Wu (jia.wu@mq.edu.au), Research Director, AI-enabled Processes Research Centre, Macquarie University, Australia
